@@ -1,0 +1,4 @@
+bookw32.exe
+bookw64.exe
+gen-crctab
+crctab.c
